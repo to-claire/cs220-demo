@@ -1,7 +1,7 @@
-# Main headding
-## Sub heading
+# main heading
+## sub heading
 
-List
+list
 * first item
 * second item
 
