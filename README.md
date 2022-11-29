@@ -1,7 +1,7 @@
 # main heading
 ## sub heading
 
-my list
+my list:
 * first item
 * second item
 
